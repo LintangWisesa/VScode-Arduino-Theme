@@ -2,16 +2,20 @@
 
 # VScode Theme Inspired by Arduino IDE
 
-Hello, makers! Have you programmed your Arduino board through Visual Studio Code? I do all the time 😎 You can do a lot with VScode, including: selecting boards & ports, installing your lovely library, verify the sketches and uploading a program to an Arduino board. So I made this VScode theme, based on Arduino IDE design. 
+Hello, makers! Have you programmed your Arduino board through Visual Studio Code? I do all the time 😎 You can do a lot with VScode, including: selecting boards & ports, installing your lovely library, verify the sketches and uploading a program to an Arduino board. So I made this VScode theme, based on Arduino IDE design. Enjoy~ 🤩 
 
 - Download theme: [VScode Arduino Theme](https://marketplace.visualstudio.com/items?itemName=lintangwisesa.arduino).
 - Source code: [VScode Arduino Theme Source Code](https://github.com/LintangWisesa/VScode-Arduino-Theme).
 
-## VScode Arduino Theme Preview
+#
+
+## VScode Arduino Theme Preview 🔍
 
 ![vscode_arduino](./lintang_icon/vscode_arduino.png)
 
-## Arduino IDE Preview
+#
+
+## Arduino IDE Preview 🔍
 
 ![arduino_IDE](./lintang_icon/arduinoIDE.png)
 
