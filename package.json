@@ -2,6 +2,10 @@
     "name": "arduino",
     "displayName": "Arduino",
     "publisher": "lintangwisesa",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LintangWisesa/VScode-Arduino-Theme.git"
+    },
     "description": "VScode theme inspired by Arduino IDE",
     "version": "0.2.0",
     "engines": {
