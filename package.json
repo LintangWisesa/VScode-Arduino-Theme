@@ -8,7 +8,7 @@
         "url": "https://github.com/LintangWisesa/VScode-Arduino-Theme.git"
     },
     "description": "VScode theme inspired by Arduino IDE",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "engines": {
         "vscode": "^1.34.0"
     },
