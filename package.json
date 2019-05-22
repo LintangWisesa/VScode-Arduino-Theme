@@ -14,7 +14,8 @@
         "vscode": "^1.34.0"
     },
     "galleryBanner": {
-        "color": "#339999"
+        "color": "#339999",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
