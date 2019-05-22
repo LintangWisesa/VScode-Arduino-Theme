@@ -1,6 +1,7 @@
 {
     "name": "arduino",
     "displayName": "Arduino",
+    "icon": "lintang_icon/arduino128.png",
     "publisher": "lintangwisesa",
     "repository": {
         "type": "git",
