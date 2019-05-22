@@ -9,6 +9,9 @@
 		"editor.lineHighlightBackground": "#FFF8DC",
 		"editor.selectionBackground": "#FFD700",
 		"editorRuler.foreground": "#339999",
+		"editor.selectionHighlightBackground": "#FFD700",
+		"editorSuggestWidget.selectedBackground": "#50B5B5",
+		"editorSuggestWidget.highlightForeground": "#ffffff",
 		// bar icon di samping kiri
 		"activityBar.background": "#339999",
 		"activityBar.foreground": "#266F6F",
@@ -20,6 +23,8 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBarSectionHeader.background": "#339999",
 		"sideBarSectionHeader.foreground": "#ffffff",
+		"list.activeSelectionBackground": "#FFD700",
+		"list.activeSelectionForeground": "#000000",
 		// title paling atas
 		"titleBar.activeBackground": "#266F6F",
 		"titleBar.activeForeground": "#ffffff",
