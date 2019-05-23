@@ -12,9 +12,12 @@
 		"editor.selectionHighlightBackground": "#FFD700",
 		"editorSuggestWidget.selectedBackground": "#50B5B5",
 		"editorSuggestWidget.highlightForeground": "#ffffff",
+		// editor group = lokasi tab, icon split & run
+		"editorGroupHeader.tabsBackground": "#339999",
+		
 		// bar icon di samping kiri
 		"activityBar.background": "#339999",
-		"activityBar.foreground": "#266F6F",
+		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#FF0000",
 		"activityBarBadge.foreground": "#ffffff",
 		// sidebar menu sebelah kiri (kanannya activity bar)
@@ -34,12 +37,12 @@
 		"panelTitle.activeForeground": "#FFFFFF",
 		"panelTitle.activeBorder": "#FFFFFF",
 		"panel.background": "#339999",
-		"panel.border": "#000000",
+		"panel.border": "#339999",
 		// terminal
 		"terminal.foreground": "#ffffff",
 		"terminal.background": "#000000",
-		"terminal.border": "#000000",
-		"terminal.selectionBackground": "#FFF29E",
+		"terminal.border": "#339999",
+		// "terminal.selectionBackground": "#FFF29E",
 		// status bar paling bawah
 		"statusBar.background": "#266F6F",
 		"statusBar.border": "#266F6F",
