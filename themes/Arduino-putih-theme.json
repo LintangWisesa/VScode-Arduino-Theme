@@ -1,7 +1,6 @@
 {
-	"tokenColors": "./Arduino.tmTheme",
+	"tokenColors": "./ArduinoLight.tmTheme",
 	"colors": {
-		// editor tempat code
 		"editor.background": "#FFFFFF",
 		"editorCursor.foreground": "#339999",
 		"editor.foreground": "#3B3A32",
@@ -12,15 +11,11 @@
 		"editor.selectionHighlightBackground": "#FFD700",
 		"editorSuggestWidget.selectedBackground": "#50B5B5",
 		"editorSuggestWidget.highlightForeground": "#ffffff",
-		// editor group = lokasi tab, icon split & run
 		"editorGroupHeader.tabsBackground": "#339999",
-		
-		// bar icon di samping kiri
 		"activityBar.background": "#339999",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#FF0000",
 		"activityBarBadge.foreground": "#ffffff",
-		// sidebar menu sebelah kiri (kanannya activity bar)
 		"sideBar.background": "#FFFFFF",
 		"sideBar.foreground": "#266F6F",
 		"sideBarTitle.foreground": "#bbbbbb",
@@ -28,31 +23,25 @@
 		"sideBarSectionHeader.foreground": "#ffffff",
 		"list.activeSelectionBackground": "#FFD700",
 		"list.activeSelectionForeground": "#000000",
-		// title paling atas
 		"titleBar.activeBackground": "#266F6F",
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.inactiveBackground": "#50B5B5",
 		"titleBar.border": "#339999",
-		// panel kotak terminal di bawah editor
 		"panelTitle.activeForeground": "#FFFFFF",
 		"panelTitle.activeBorder": "#FFFFFF",
 		"panel.background": "#339999",
 		"panel.border": "#339999",
-		// terminal
 		"terminal.foreground": "#ffffff",
 		"terminal.background": "#000000",
 		"terminal.border": "#339999",
-		// "terminal.selectionBackground": "#FFF29E",
-		// status bar paling bawah
 		"statusBar.background": "#266F6F",
 		"statusBar.border": "#266F6F",
 		"statusBar.foreground": "#ffffff",
 		"statusBarItem.hoverBackground": "#339999",
 		"statusBarItem.activeBackground": "#339999",
-		// button
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#339999",
 		"button.background": "#266F6F"
 	},
-	"name": "Arduino"
+	"name": "Arduino Light"
 }

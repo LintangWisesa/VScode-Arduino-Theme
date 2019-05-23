@@ -20,12 +20,21 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"arduino",
+		"vscode"
+	],
     "contributes": {
         "themes": [
             {
-                "label": "Arduino",
+                "label": "Arduino Light",
                 "uiTheme": "vs",
-                "path": "./themes/Arduino-color-theme.json"
+                "path": "./themes/Arduino-putih-theme.json"
+            },
+            {
+                "label": "Arduino Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arduino-hitam-theme.json"
             }
         ]
     }

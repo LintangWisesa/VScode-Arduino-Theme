@@ -9,15 +9,23 @@ Hello, makers! Have you programmed your Arduino board through Visual Studio Code
 
 #
 
-## VScode Arduino Theme Preview 🔍
+## Arduino IDE Preview 🔍
+
+![arduino_IDE](./lintang_icon/arduinoIDE.png)
+
+#
+
+## VScode Arduino Light Theme Preview 🔍
 
 ![vscode_arduino](./lintang_icon/vscode_arduino.png)
 
 #
 
-## Arduino IDE Preview 🔍
+## VScode Arduino Dark Theme Preview 🔍
 
-![arduino_IDE](./lintang_icon/arduinoIDE.png)
+![vscode_arduino](./lintang_icon/vscode_arduino_dark.png)
+
+#
 
 #### Lintang Wisesa 💌 _lintangwisesa@ymail.com_
 
