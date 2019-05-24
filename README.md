@@ -7,8 +7,6 @@ Hello, makers! Have you programmed your Arduino board through Visual Studio Code
 - Download theme: [VScode Arduino Theme](https://marketplace.visualstudio.com/items?itemName=lintangwisesa.arduino).
 - Source code: [VScode Arduino Theme Source Code](https://github.com/LintangWisesa/VScode-Arduino-Theme).
 
-#
-
 ## Arduino IDE Preview 🔍
 
 ![arduino_IDE](./lintang_icon/arduinoIDE.png)
